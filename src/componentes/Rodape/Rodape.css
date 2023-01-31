@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    background-color: #6278F7;
+    background-image: url('/public/img/fundo.png');
+    background-repeat: no-repeat;
+    height: 30vh;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer div a {
+    padding: 0 2em;
+}
+.footer p {
+    color: #fff;
+    font-size: 24px;
+}
